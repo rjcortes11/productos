@@ -1,0 +1,36 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo Redux Hooks",
+      "precio": "30"
+    },
+    {
+      "id": 2,
+      "nombre": "React y Redux",
+      "precio": 40
+    },
+    {
+      "id": 4,
+      "nombre": "biblia NTV",
+      "precio": "100"
+    },
+    {
+      "id": 5,
+      "nombre": "node y react v1",
+      "precio": "100"
+    }
+  ],
+  "platillos": [
+    {
+      "id": 1,
+      "nombre": "Pollo frito",
+      "precio": 30
+    },
+    {
+      "id": 2,
+      "nombre": "Pescado asado",
+      "precio": 40
+    }
+  ]
+}
